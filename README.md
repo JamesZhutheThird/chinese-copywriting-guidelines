@@ -9,8 +9,8 @@
 Other languages:
 
 - [英语](README.en.md)
-- [繁体中文](README.md)
-- [简体中文](README.zh-Hans.md)
+- [繁体中文](README.tc.md)
+- [简体中文](README.md)
 - [简体中文](https://github.com/mzlogin/chinese-copywriting-guidelines)（外部链接）
 
 * * *
